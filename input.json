@@ -1,0 +1,14 @@
+{
+
+  "database":"database to connect to DEMO: demo_db",
+
+  "host":"database host DEMO: localhost",
+
+  "port":5431,
+
+  "username":"database user",
+
+  "password":"user password",
+
+  "sql":"sql to execute"
+}
